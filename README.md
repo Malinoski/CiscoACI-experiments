@@ -1,6 +1,6 @@
 # Cisco ACI experiments
 
-Just some experiments
+This experiment creates an APIC/Spine/Leaf environment in a Cisco Sandbox environment and some code Python to access and uses this envoroment.
 
 ### Create the environment
 
